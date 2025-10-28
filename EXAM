@@ -1,0 +1,116 @@
+<CTYPE html>
+<html !DOlang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CASUGA JAMEALLEN N. - Bicol Express Recipe</title>
+</head>
+
+<body bgcolor="#fffaf0" text="#2f2f2f" link="#b22222" vlink="#8b0000" alink="#ff4500">
+
+<!-- HEADER SECTION -->
+<center>
+    <table width="90%" border="5" cellpadding="10" cellspacing="0" bgcolor="#ffe4c4" bordercolor="#cd853f">
+        <tr>
+            <td align="center">
+                <h1><font color="#8b0000" size="7"><b><i>🌶️ BICOL EXPRESS 🌶️</i></b></font></h1>
+                <p><font size="4"><em>A creamy, spicy Filipino dish from the Bicol Region — made with pork, coconut milk, and chilies!</em></font></p>
+            </td>
+        </tr>
+    </table>
+</center>
+
+<br>
+
+<!-- MAIN LAYOUT TABLE -->
+<table border="0" width="95%" align="center" cellpadding="10" cellspacing="15">
+    <tr valign="top">
+        <!-- LEFT COLUMN: INGREDIENTS -->
+        <td width="45%" bgcolor="#fff8dc">
+            <center><h2><u><font color="#b22222">Ingredients</font></u></h2></center>
+
+            <table border="2" bordercolor="#deb887" cellpadding="5" cellspacing="0" width="100%">
+                <tr bgcolor="#ffdead">
+                    <th>Ingredient</th>
+                    <th>Amount</th>
+                </tr>
+                <tr><td>Pork belly (liempo), sliced</td><td>500g</td></tr>
+                <tr><td>Coconut milk (gata)</td><td>2 cups</td></tr>
+                <tr><td>Shrimp paste (bagoong alamang)</td><td>2 tbsp</td></tr>
+                <tr><td>Green chili peppers</td><td>6–8 pcs</td></tr>
+                <tr><td>Red chili (optional)</td><td>2 pcs</td></tr>
+                <tr><td>Garlic, minced</td><td>4 cloves</td></tr>
+                <tr><td>Onion, chopped</td><td>1 medium</td></tr>
+                <tr><td>Ginger, sliced</td><td>1 tbsp</td></tr>
+                <tr><td>Salt & Pepper</td><td>To taste</td></tr>
+            </table>
+        </td>
+
+        <!-- RIGHT COLUMN: MAIN IMAGE -->
+        <td width="55%" align="center" bgcolor="#fffaf0">
+            <img src="midterm/bicol.jpg" alt="Bicol Express Dish" width="400" height="260" border="5" bordercolor="#b22222">
+            <p><font size="3"><i>Freshly cooked <b>Bicol Express</b> — rich coconut sauce and fiery chilies!</i></font></p>
+        </td>
+    </tr>
+</table>
+
+<hr width="85%" color="#b22222" size="3">
+
+<!-- INSTRUCTIONS SECTION -->
+<center><h2><u><font color="#8b0000">Cooking Instructions</font></u></h2></center>
+
+<table width="85%" align="center" border="1" cellpadding="10" bgcolor="#fffaf0" bordercolor="#deb887">
+<tr><td>
+    <ol type="1">
+        <li>In a pan, sauté <b>garlic</b>, <b>onion</b>, and <b>ginger</b> until aromatic.</li>
+        <li>Add <strong>pork belly</strong> and cook until it turns light brown.</li>
+        <li>Stir in <mark>shrimp paste</mark> and cook for about 3 minutes.</li>
+        <li>Pour the <em>coconut milk</em> and simmer until the pork becomes tender.</li>
+        <li>Add <b>green chilies</b> and let it simmer until the sauce thickens.</li>
+        <li>Season with <small>salt</small> and <small>pepper</small> to taste.</li>
+        <li>For extra heat, mix in <font color="red"><b>red chili peppers</b></font>.</li>
+        <li>Serve hot with <strong>steamed rice</strong> — enjoy the Bicolano flavor!</li>
+    </ol>
+</td></tr>
+</table>
+
+<br>
+
+<!-- IMAGES OF STEPS -->
+<center>
+    <table border="0" cellpadding="10" cellspacing="10">
+        <tr>
+            <td align="center">
+                <img src="midterm/bicol-express-I.jpg" width="250" height="160" border="2" bordercolor="#8b0000">
+                <p><small><i>Preparing ingredients and sautéing pork</i></small></p>
+            </td>
+            <td align="center">
+                <img src="midterm/bicol.jpg" width="250" height="160" border="2" bordercolor="#8b0000">
+                <p><small><i>Finished dish ready to serve!</i></small></p>
+            </td>
+        </tr>
+    </table>
+</center>
+
+<hr width="85%" color="#8b0000" size="3">
+
+<!-- FOOTER SECTION -->
+<footer>
+    <center>
+        <table width="90%" border="1" cellpadding="10" bordercolor="#cd853f" bgcolor="#ffe4c4">
+            <tr>
+                <td align="center">
+                    <b>References & Further Reading:</b>
+                    <ul type="square" align="center">
+                        <li><a href="https://panlasangpinoy.com/bicol-express-recipe/" target="_blank">Panlasang Pinoy - Bicol Express</a></li>
+                        <li><a href="https://www.foxyfolksy.com/bicol-express/" target="_blank">Foxy Folksy - Bicol Express</a></li>
+                        <li><a href="https://en.wikipedia.org/wiki/Bicol_Express" target="_blank">Wikipedia - Bicol Express</a></li>
+                    </ul>
+                    <p><font size="2">© 2025 <b>Lastname</b> — Midterm Exam | HTML5 Only Layout</font></p>
+                </td>
+            </tr>
+        </table>
+    </center>
+</footer>
+
+</body>
+</html>
